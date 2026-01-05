@@ -106,8 +106,6 @@ The project implements a fully automated CI/CD pipeline using GitHub Actions:
 ## 🏗️ Architecture
 
 ```
-[Architecture Diagram Placeholder]
-
 ┌─────────────────────────────────────────────────────────────┐
 │                     GitHub Actions CI/CD                     │
 └──────────────────────┬──────────────────────────────────────┘
@@ -142,7 +140,7 @@ This project is licensed under the MIT License - see below for details:
 ```
 MIT License
 
-Copyright (c) 2026 Multi-Cloud CI/CD Pipeline Project
+Copyright (c) 2024 Multi-Cloud CI/CD Pipeline Project
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
